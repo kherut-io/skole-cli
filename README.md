@@ -1,2 +1,2 @@
 # skole-cli
-An open source commandline interface for Skole™.
+> A command-line interface for Skole™.
